@@ -38,4 +38,4 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba" width="100%" height="300" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba" width="100%" height="200" /></p>

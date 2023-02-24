@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&locale=en" alt="raobaba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba" width="100%" /></p>

@@ -90,7 +90,7 @@
 
 <h2 align="center">Contribution Graph 📊</h2>
 <div style={display:"flex"}>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raobaba&show_icons=true&locale=en&layout=compact" alt="raobaba" width="47%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raobaba&show_icons=true&locale=en&layout=compact" alt="raobaba" width="45%" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&locale=en" alt="raobaba" width="45%" /></p>
 </div>

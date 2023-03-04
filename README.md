@@ -20,7 +20,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b8GyIwDkaBzisELbWWYsT-VzcWIhn3Wi/view?usp=share_link](https://drive.google.com/file/d/1b8GyIwDkaBzisELbWWYsT-VzcWIhn3Wi/view?usp=share_link)
 
-- ⚡ Fun fact **I am funny**
 </p>
 
 - ⚡ Fun fact **I am funny and sing**

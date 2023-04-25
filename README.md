@@ -96,8 +96,7 @@
       
     
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/14a62a8198db8470bfc85eaf830857b1aa8e6b3fecd7d13c9a4a5e431e1d2459/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333445443143352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4e706d266c6f676f436f6c6f723d626c61636b"><img alt="zoom" src="https://camo.githubusercontent.com/14a62a8198db8470bfc85eaf830857b1aa8e6b3fecd7d13c9a4a5e431e1d2459/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333445443143352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4e706d266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/NPM-%234ED1C5.svg?style=for-the-badge&amp;logo=Npm&amp;logoColor=black" style="max-width: 100%;"></a>
-     
-
+    
      
 </p>
 

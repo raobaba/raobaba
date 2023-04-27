@@ -107,3 +107,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba" width="100%" height="200" /></p>
+<img src="https://raw.githubusercontent.com/raobaba/raobaba/output/snake.svg" alt="Snake animation" />

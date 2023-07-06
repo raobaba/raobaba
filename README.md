@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://raobaba.github.io/)
 
-- 📝 I write articles on [https://medium.com/@raorajan9576](https://medium.com/@raorajan9576)
+- 📝 I write articles on [medium](https://medium.com/@raorajan9576)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **raorajan9576@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b8GyIwDkaBzisELbWWYsT-VzcWIhn3Wi/view?usp=share_link](https://drive.google.com/file/d/1b8GyIwDkaBzisELbWWYsT-VzcWIhn3Wi/view?usp=share_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1b8GyIwDkaBzisELbWWYsT-VzcWIhn3Wi/view?usp=share_link)
 
 </p>
 

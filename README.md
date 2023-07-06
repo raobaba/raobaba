@@ -149,7 +149,7 @@
 </p>
 
 <h2 align="center">My Github Stats & Streak 📊</h2>
-<div style={display:"flex"}>
+<div style={display:"flex",border:"1px solid white"}>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raobaba&show_icons=true&locale=en&layout=compact" alt="raobaba" width="47%"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&locale=en" alt="raobaba" width="47%" /></p>

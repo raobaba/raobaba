@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raobaba&label=Profile%20views&color=0e75b6&style=flat" alt="raobaba" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://raobaba.github.io/](https://raobaba.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://raobaba.github.io/)
 
 - 📝 I write articles on [https://medium.com/@raorajan9576](https://medium.com/@raorajan9576)
 

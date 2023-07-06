@@ -154,4 +154,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raobaba&show_icons=true&locale=en&layout=compact" alt="raobaba" width="47%" height="200"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&locale=en" alt="raobaba" width="47%"/></p>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba" width="100%" height="200" /></p>
+<p style="margin-top:10px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba"  width="100%" height="200" /></p>

@@ -152,7 +152,7 @@
 <div style={display:"flex"}>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="raobaba" height="200" width="49%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="raobaba" height="300" width="49%" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raobaba&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="raobaba" height="200" width="49%" />
 </p>
 </div>

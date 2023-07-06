@@ -173,9 +173,6 @@
     <a href="https://github.com/raobaba/Weather-Application">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Weather-Application&locale=en&border_radius=0&theme=dark" alt="raobaba" />
     </a>
-     <a href="https://github.com/raobaba/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="raobaba" />
-    </a>
     <a href="https://github.com/raobaba/Myntra-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Myntra-Clone&locale=en&border_radius=0&theme=dark" alt="raobaba" />
     </a>

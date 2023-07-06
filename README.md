@@ -151,10 +151,11 @@
 </p>
 
 <h2 align="center">My Github Stats & Streak 📊</h2>
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="raobaba" style="flex: 1; max-width: 10%; height: 250px;" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raobaba&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="raobaba" style="flex: 1; width: 40%;" />
 </div>
+
 
 
 

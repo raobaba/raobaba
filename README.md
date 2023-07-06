@@ -152,9 +152,10 @@
 
 <h2 align="center">My Github Stats & Streak 📊</h2>
 <div style="display: flex;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="raobaba" style="flex: 1; max-width: 20%; height: 220px;" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raobaba&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="raobaba" style="flex: 1; width: 40%; height: 180px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="raobaba" style="flex: 1; max-width: 20%;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raobaba&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="raobaba" style="flex: 1; width: 40%;" />
 </div>
+
 
 <h2><i>Top Repositories</i></h2>
 

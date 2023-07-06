@@ -128,8 +128,8 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 <img src="https://img.shields.io/badge/Render-FFD166?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
-
-
+    <img src="https://img.shields.io/badge/Cyclic-0C344B?style=for-the-badge&logo=cyclic&logoColor=FFFFFF" alt="Cyclic" />
+<img src="https://img.shields.io/badge/Railway-FF3E00?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
 
 </p>
 
@@ -144,6 +144,8 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+
 </p>
 
 <h2 align="center">My Github Stats & Streak 📊</h2>

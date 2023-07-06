@@ -149,9 +149,11 @@
 </p>
 
 <h2 align="center">My Github Stats & Streak 📊</h2>
-<div style={display:"flex",border:"1px solid white"}>
+<div style={display:"flex"}>
+
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raobaba&show_icons=true&locale=en&layout=compact" alt="raobaba" width="47%" height="200"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&locale=en" alt="raobaba" width="47%"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raobaba&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="raobaba" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raobaba&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="raobaba" height="139" />
+</p>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&" alt="raobaba"  width="100%" height="200" /></p>
+

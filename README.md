@@ -157,4 +157,33 @@
 </div>
 
 
+<h2><i>Top Repositories</i></h2>
 
+
+<p>
+    <a href="https://github.com/raobaba/ShopEase-Ecommerce-Project">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=ShopEase-Ecommerce-Project&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+    <a href="https://github.com/raobaba/clone-flipkart-website">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=clone-flipkart-website&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+    <a href="https://github.com/raobaba/Clone-Orbitz">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Clone-Orbitz&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+    <a href="https://github.com/raobaba/Weather-Application">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Weather-Application&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+     <a href="https://github.com/raobaba/Facebook-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+    <a href="https://github.com/raobaba/Myntra-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Myntra-Clone&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+    <a href="https://github.com/raobaba/Clone-SkinStore">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=Clone-SkinStore&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+    <a href="https://github.com/raobaba/united-cobweb-7806">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raobaba&repo=united-cobweb-7806&locale=en&border_radius=0&theme=dark" alt="raobaba" />
+    </a>
+    
+</p>

@@ -5,7 +5,7 @@
 </p>
 
 <!-- ----------------------------------------------------------CODING-IMAGE--------------------------------------------------------- -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fcoding-skills%2F&psig=AOvVaw3WbQV1NqQnNxlInsy7kXio&ust=1711021157480000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi78tPggoUDFQAAAAAdAAAAABAI" width="100%" height="300px" alt="js" />
+<img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/coding-skills.jpg" width="100%" height="300px" alt="js" />
 
 
 

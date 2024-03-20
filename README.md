@@ -5,7 +5,7 @@
 </p>
 
 <!-- ----------------------------------------------------------CODING-IMAGE--------------------------------------------------------- -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fcoding-background&psig=AOvVaw3WbQV1NqQnNxlInsy7kXio&ust=1711021157480000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi78tPggoUDFQAAAAAdAAAAABAE" width="100%" height="300px" alt="js" />
+<img src="https://avatars.githubusercontent.com/u/99542983?v=4" width="100%" height="300px" alt="js" />
 
 
 

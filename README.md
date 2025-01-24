@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **raorajan9576@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1qhJ4J4fmHnWhCOAjVIQTdQjWq3Ooxcvv/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BTKLp3CJppeCg9rcnZ7ubeKW6izSAfGJ/view?usp=sharing)
 
 </p>
 

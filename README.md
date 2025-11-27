@@ -124,7 +124,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raobaba&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=raobaba&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <h2><i>Top Repositories</i></h2>
@@ -151,6 +151,5 @@
 </div>
 
 <div align="center" style="margin-top: 30px;">
-    <img src="https://github.com/raobaba/raobaba/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/raobaba/raobaba/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-

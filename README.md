@@ -95,33 +95,43 @@
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,mongodb,mysql,postgres,nodejs,react,nextjs" />
 </div>
 
-<!-- ================================= FEATURED PROJECTS ================================= -->
+<!-- ================================= FEATURED REPOSITORIES ================================= -->
 <h2 align="center">🚀 Featured Repositories</h2>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
-        <a href="https://github.com/raorajan/PayAI-Guardian">
-          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=PayAI-Guardian&theme=radical&border_radius=15" />
-        </a>
+      <td width="50%" align="center">
+        <h3>🛡️ PayAI Guardian</h3>
+        <p>AI-Powered Fintech Security & Distributed Microservices</p>
+        <img src="https://img.shields.io/badge/Next.js-15-black?logo=nextjs" />
+        <img src="https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript" />
+        <img src="https://img.shields.io/badge/Microservices-Architecture-orange" /><br>
+        <a href="https://github.com/raorajan/PayAI-Guardian"><b>View Project →</b></a>
       </td>
-      <td>
-        <a href="https://github.com/raorajan/ShopEase-Ecommerce-Project">
-          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=ShopEase-Ecommerce-Project&theme=radical&border_radius=15" />
-        </a>
+      <td width="50%" align="center">
+        <h3>🛒 ShopEase</h3>
+        <p>Full-Feature MERN Stack E-commerce Solution</p>
+        <img src="https://img.shields.io/badge/MongoDB-Powered-green?logo=mongodb" />
+        <img src="https://img.shields.io/badge/Express.js-Fast-lightgrey" />
+        <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux" /><br>
+        <a href="https://github.com/raorajan/ShopEase-Ecommerce-Project"><b>View Project →</b></a>
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/raorajan/clone-flipkart-website">
-          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=clone-flipkart-website&theme=radical&border_radius=15" />
-        </a>
+      <td width="50%" align="center">
+        <h3>🛍️ Flipkart Clone</h3>
+        <p>Advanced Frontend UI with React & Tailwind</p>
+        <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS%204-06B6D4?logo=tailwindcss" /><br>
+        <a href="https://github.com/raorajan/clone-flipkart-website"><b>View Project →</b></a>
       </td>
-      <td>
-        <a href="https://github.com/raorajan/Clone-Orbitz">
-          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=Clone-Orbitz&theme=radical&border_radius=15" />
-        </a>
+      <td width="50%" align="center">
+        <h3>✈️ Orbitz Clone</h3>
+        <p>Travel Booking Platform Implementation</p>
+        <img src="https://img.shields.io/badge/FullStack-Implementation-blue" />
+        <img src="https://img.shields.io/badge/API-Integration-yellow" /><br>
+        <a href="https://github.com/raorajan/Clone-Orbitz"><b>View Project →</b></a>
       </td>
     </tr>
   </table>
@@ -130,7 +140,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/raorajan?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -139,8 +149,9 @@
 <!-- ================================= SNAKE GAME ================================= -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
+<!-- Note: This snake animation requires the "Snake" GitHub Action to be active in your raorajan/raorajan repo -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raorajan/raorajan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/raorajan/raorajan/output/github-snake.svg" alt="Contribution Snake" />
 </div>
 
 <!-- ================================= QUOTE ================================= -->

@@ -9,8 +9,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&text=👨‍💻%20Rajan%20Kumar&fontSize=40&fontAlignY=40" />
   
-  <h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack | Problem Solver</h3>
+  <h2 align="center">🚀 Full Stack Developer | MERN Specialist | Performance Architect</h2>
   
+  <p align="center">
+    <strong>Building scalable distributed systems and beautiful user experiences.</strong>
+  </p>
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=raorajan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
     <img src="https://img.shields.io/github/followers/raorajan?label=Followers&style=social" alt="GitHub Followers" />
@@ -44,29 +48,27 @@
 <!-- ================================= TECH STACK ================================= -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Frontend Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+    </td>
+    <td align="center" width="33%">
+      <strong>DevOps & Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,docker,vercel,netlify" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">Backend & Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,docker,vercel,netlify" />
-</p>
-
-<!-- ================================= GITHUB STATS ================================= -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=raorajan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+        <img align="center" src="https://github-readme-stats-sigma.vercel.app/api?username=raorajan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
       </td>
       <td>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raorajan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
@@ -74,37 +76,46 @@
     </tr>
   </table>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raorajan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=raorajan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   
+  <!-- Trophies service is currently experiencing downtime (503), keeping original URL for when it recovers -->
   <img src="https://github-profile-trophy.vercel.app/?username=raorajan&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <!-- ================================= FEATURED PROJECTS ================================= -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Repositories</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin: 30px 0;">
-  <!-- Project 1 -->
-  <a href="https://github.com/raorajan/ShopEase-Ecommerce-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=ShopEase-Ecommerce-Project&theme=radical&border_radius=15" />
-  </a>
-  
-  <!-- Project 2 -->
-  <a href="https://github.com/raorajan/clone-flipkart-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=clone-flipkart-website&theme=radical&border_radius=15" />
-  </a>
-  
-  <!-- Project 3 -->
-  <a href="https://github.com/raorajan/Clone-Orbitz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=Clone-Orbitz&theme=radical&border_radius=15" />
-  </a>
-  
-  <!-- Project 4 -->
-  <a href="https://github.com/raorajan/Myntra-Clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raorajan&repo=Myntra-Clone&theme=radical&border_radius=15" />
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/raorajan/PayAI-Guardian">
+          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=PayAI-Guardian&theme=radical&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/raorajan/ShopEase-Ecommerce-Project">
+          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=ShopEase-Ecommerce-Project&theme=radical&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/raorajan/clone-flipkart-website">
+          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=clone-flipkart-website&theme=radical&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/raorajan/Clone-Orbitz">
+          <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=raorajan&repo=Clone-Orbitz&theme=radical&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
+  <br>
   <a href="https://github.com/raorajan?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -121,7 +132,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raorajan/raorajan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/raorajan/raorajan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <!-- ================================= QUOTE ================================= -->

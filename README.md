@@ -65,21 +65,34 @@
   </tr>
 </table>
 
+<!-- ================================= GITHUB ANALYTICS ================================= -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <!-- Stable Shields.io Badges -->
+  <img src="https://img.shields.io/badge/Total%20Contributions-2219-orange" />
+  <img src="https://img.shields.io/github/stars/raorajan?style=flat&color=yellow&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/raorajan?style=flat&color=blue&label=Followers" />
+  <img src="https://img.shields.io/github/repo-size/raorajan/PayAI-Guardian?label=Project%20Size" />
+  
+  <br><br>
+  
   <table>
     <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats-sigma.vercel.app/api?username=raorajan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raorajan&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
       </td>
-      <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raorajan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+      <td align="center" width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=raorajan&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Pulse" width="100%"/>
       </td>
     </tr>
   </table>
-  <br>
-  <img align="center" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=raorajan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   
-  <!-- Trophies service is currently experiencing downtime (503), keeping original URL for when it recovers -->
-  <img src="https://github-profile-trophy.vercel.app/?username=raorajan&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <br>
+  
+  <!-- Languages section using stable SkillIcons -->
+  <h3 align="center">Preferred Languages</h3>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,mongodb,mysql,postgres,nodejs,react,nextjs" />
 </div>
 
 <!-- ================================= FEATURED PROJECTS ================================= -->
@@ -121,18 +134,13 @@
   </a>
 </div>
 
-<!-- ================================= ACTIVITY GRAPH ================================= -->
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raorajan&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
-</div>
+<!-- Activity Graph Section Removed to optimize for stability and speed as it's already in the table above -->
 
 <!-- ================================= SNAKE GAME ================================= -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raorajan/raorajan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/raorajan/raorajan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 <!-- ================================= QUOTE ================================= -->
